@@ -1,0 +1,38 @@
+ABSA INTELLIGENCE 360 | TABLERO HTML DE EQUIVALENCIAS SCHNEIDER
+Fecha de datos: 02-nov-2026
+
+QUÉ INCLUYE
+- 1,173 cruces Rockwell / Schneider, con búsquedas, filtros y ficha técnica.
+- 855 registros de inventario Industrial Automation y 328 de Power Products.
+- 25 bloqueos técnicos identificados, 13 insights y acciones.
+- Presupuesto del borrador en USD y simulador de FX y porcentaje de inversión.
+- Fuente y observaciones de los archivos Excel, integradas en index.html.
+- Exportación de tablas filtradas a CSV y vista de impresión.
+
+CÓMO ABRIRLO
+1. Descomprima el ZIP y abra index.html en Chrome, Safari, Edge o Firefox.
+2. No necesita internet para explorar datos y gráficas; fichas externas sí requieren conexión.
+3. Los botones de exportación CSV funcionan en un navegador moderno.
+
+CÓMO PUBLICAR EN UNA URL PÚBLICA
+- El sitio es estático y está listo para usar en cualquier hosting estático.
+- Arrastre el ZIP o su contenido a Netlify Drop o Cloudflare Pages (Direct Upload),
+  o conéctelo a un proyecto de Vercel/Render con su GitHub.
+- Debe quedar index.html en la raíz de la carpeta publicada.
+- No necesita API, base de datos ni npm install; es un HTML autocontenido.
+- Compruebe que el hosting permite acceso sin login antes de compartir el enlace.
+
+ADVERTENCIA SOBRE DIFUSIÓN
+Este HTML incluye datos comerciales y de planeación de ABSA: referencias, cantidades
+sugeridas, análisis y presupuesto del borrador. PUBLICARLO EN UNA WEB ABIERTA
+EXPONE ESE CONTENIDO A CUALQUIER VISITANTE. Antes de publicar, autorice la difusión.
+Los candidatos Schneider NO son equivalencias homologadas. En especial las referencias
+con estado BLOQUEAR / CORREGIR no deben ofrecerse como sustitución directa.
+
+FUENTES INCLUIDAS
+- V2Crossreference_Rockwell_Schneider - Draft - ABSA.xlsx
+- ABSA_Analisis_Productos_Insights_Rockwell_Schneider.xlsx
+- ABSA_Propuesta_Equivalencias_Schneider_2026.xlsx
+
+VERSIÓN
+Tablero HTML autónomo 1.0, actualizado a partir de los archivos proporcionados.
